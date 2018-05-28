@@ -1,2 +1,2 @@
 # TestRepositoorium
-Testimiseks mõeldud
+Testimiseks mõeldud repositoorium.
